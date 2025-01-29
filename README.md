@@ -203,22 +203,6 @@ then you can add and remove products in admin dashboard
 
 # project authority
 
-this project is developed only by @sebe2k04 , if you have any queries contact me on ,
+this project is developed only by Rahul Raj , if you have any queries contact me on ,
 
-github :
 
-https://github.com/Sebe2k04
-
-linked in :
-
-https://www.linkedin.com/in/sebe2k04/
-
-gmail :
-
-sebe2k04@gmail.com
-
-website:
-
-https://sebe2k04.vercel.app/
-
-this project is developed only by myself - sebe , to showcase my developing skills , im a fresher and im currently looking full time job oppurtunities , thank you all...
